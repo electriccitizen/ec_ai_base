@@ -1,0 +1,15 @@
+{
+    "name": "electriccitizen/ec-ai-base",
+    "description": "Installs and configures base requirements for AI integrations.",
+    "keywords": ["recipe", "Drupal recipes", "drupal recipe"],
+    "type": "drupal-recipe",
+    "authors": [
+        {
+            "name": "Tim Broeker",
+            "role": "Maintainer"
+        }
+    ],
+    "require": {
+        "drupal/ai": "*"
+    }
+}
