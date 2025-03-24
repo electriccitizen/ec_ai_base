@@ -5,3 +5,8 @@ type: 'Site'
 install:
   # AI base modules
   - ai
+  - ai_provider_openai
+  - ai_provider_anthropic
+  - ai_image_alt_text
+  - key
+
